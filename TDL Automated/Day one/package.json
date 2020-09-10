@@ -1,0 +1,15 @@
+{
+  "name": "day-one",
+  "version": "1.0.0",
+  "description": "TDL webside automation using nightwatch day one",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/nightwatch/bin/nightwatch"},
+  "author": "Aleksandrs Panass",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "85.0.1",
+    "geckodriver": "1.20.0",
+    "nightwatch": "1.4.1"
+  }
+}
